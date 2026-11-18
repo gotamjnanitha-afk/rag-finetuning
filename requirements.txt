@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+transformers
+datasets
+peft
+accelerate
+python-dotenv
+groq
+torch

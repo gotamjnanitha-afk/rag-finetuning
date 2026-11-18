@@ -1,0 +1,16 @@
+UNIVERSITY KNOWLEDGE
+
+1.  Admissions Students can apply for undergraduate and postgraduate
+    programs through the university admission process.
+
+2.  Courses The university offers programs in Computer Science, Business
+    Administration, Data Science and Engineering.
+
+3.  Examinations Students must attend internal assessments and semester
+    examinations.
+
+4.  Library The university library provides textbooks, journals and
+    digital learning resources.
+
+5.  Attendance Students are expected to maintain at least 75 percent
+    attendance to be eligible for examinations.

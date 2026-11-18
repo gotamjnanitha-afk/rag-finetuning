@@ -1,0 +1,51 @@
+
+[
+  {
+    "question": "What is the minimum attendance required?",
+    "answer": "Students must maintain at least 75 percent attendance to be eligible for examinations."
+  },
+  {
+    "question": "How much attendance should students have?",
+    "answer": "Students are expected to maintain at least 75 percent attendance."
+  },
+  {
+    "question": "What is the attendance requirement for exams?",
+    "answer": "A minimum of 75 percent attendance is required to be eligible for examinations."
+  },
+  {
+    "question": "Which courses are offered?",
+    "answer": "The university offers Computer Science, Business Administration, Data Science and Engineering."
+  },
+  {
+    "question": "Does the university offer Data Science?",
+    "answer": "Yes, Data Science is one of the programs offered by the university."
+  },
+  {
+    "question": "What engineering program is available?",
+    "answer": "The university offers Engineering programs."
+  },
+  {
+    "question": "What facilities does the library provide?",
+    "answer": "The library provides textbooks, journals and digital learning resources."
+  },
+  {
+    "question": "Are digital resources available in the library?",
+    "answer": "Yes, the university library provides digital learning resources."
+  },
+  {
+    "question": "Which examinations are conducted?",
+    "answer": "Students must attend internal assessments and semester examinations."
+  },
+  {
+    "question": "Are internal assessments compulsory?",
+    "answer": "Students must attend internal assessments and semester examinations."
+  },
+  {
+    "question": "How do students get admission?",
+    "answer": "Students can apply for undergraduate and postgraduate programs through the university admission process."
+  },
+  {
+    "question": "Can students apply for postgraduate courses?",
+    "answer": "Yes, students can apply for postgraduate programs through the university admission process."
+  }
+]
